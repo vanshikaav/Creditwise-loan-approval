@@ -131,6 +131,7 @@ A comparative analysis was performed to identify the best-performing model.
 
 ## Project Structure
 
+```text
 Creditwise Loan Approval/
 │
 ├── app.py
@@ -140,6 +141,7 @@ Creditwise Loan Approval/
 ├── requirements.txt
 ├── CreditWise_Loan_Approval.ipynb
 └── README.md
+```
 
 ---
 
@@ -176,8 +178,3 @@ The deployed application allows users to:
 - Cloud deployment and monitoring
 
 ---
-
-## Author
-Vanshika  
-Master of Computer Applications (AI & IoT)  
-National Institute of Technology Patna
